@@ -1,0 +1,20 @@
+@CHARSET "UTF-8";
+input{width:40px; height:20px;}
+
+td{width:30px; height:20px;}
+
+#td1{width:100px;}
+
+font{size="8";}
+table{
+	border-collapse:collapse;
+	border-radius: 6px;
+}
+#tab1{
+align:center;
+background-color: white;
+}
+.button{
+width:80px;
+
+}
